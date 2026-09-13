@@ -13,7 +13,7 @@
 本代码基于 C 语言编写。需要具备 C 语言编译环境（如 gcc、Dev-C++、Visual Studio 等）。
 
 ## 4. 编译命令
-
+traffic_light.c
 ## 5. 运行结果
 <img width="413" height="281" alt="image" src="https://github.com/user-attachments/assets/18f64b2a-2513-4406-94c4-c032b918393e" />
 
